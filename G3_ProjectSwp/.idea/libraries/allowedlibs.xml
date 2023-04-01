@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="allowedlibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/allowedlibs/commons-fileupload-1.5-bin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/smtp-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/httpcore-4.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/commons-io-2.11.0-bin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/httpclient-4.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/fluent-hc-4.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/allowedlibs/gson-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
